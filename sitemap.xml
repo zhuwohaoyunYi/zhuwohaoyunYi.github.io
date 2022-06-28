@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhuwohaoyunYi.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2022-06-27T17:14:16+08:00</lastmod>
   </url><url>
-    <loc>https://zhuwohaoyunYi.github.io/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2022-06-27T17:14:16+08:00</lastmod>
   </url><url>
-    <loc>https://zhuwohaoyunYi.github.io/post/tianqingse-dengyanyv/</loc>
+    <loc>http://example.org/post/tianqingse-dengyanyv/</loc>
     <lastmod>2022-06-27T17:14:16+08:00</lastmod>
   </url><url>
-    <loc>https://zhuwohaoyunYi.github.io/post/first/</loc>
+    <loc>http://example.org/post/first/</loc>
     <lastmod>2022-06-27T16:32:50+08:00</lastmod>
   </url><url>
-    <loc>https://zhuwohaoyunYi.github.io/post/blog/</loc>
+    <loc>http://example.org/post/blog/</loc>
     <lastmod>2022-06-27T12:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://zhuwohaoyunYi.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://zhuwohaoyunYi.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
